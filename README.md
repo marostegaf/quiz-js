@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-Disponível em: 🔗[Quiz de JavaScript](marostegaf.github.io/quiz-js/)
+Disponível em: 🔗[Quiz de JavaScript](https://marostegaf.github.io/quiz-js/)
