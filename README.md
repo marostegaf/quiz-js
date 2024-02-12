@@ -9,9 +9,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
 
 ## 💻 Projeto
 Disponível em: 🔗[Quiz de JavaScript](https://marostegaf.github.io/quiz-js/)
